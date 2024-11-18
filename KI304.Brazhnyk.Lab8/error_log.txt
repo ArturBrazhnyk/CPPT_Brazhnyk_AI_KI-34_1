@@ -1,0 +1,5 @@
+Невідома помилка в calculate_y: must be real number, not str
+Невідома помилка в calculate_y: must be real number, not str
+Невідома помилка в calculate_y: cannot access local variable 'y' where it is not associated with a value
+Невідома помилка в calculate_y: calculate_y() takes 1 positional argument but 2 were given
+Невідома помилка в calculate_y: float division by zero
